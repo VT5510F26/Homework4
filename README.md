@@ -1,16 +1,11 @@
 # CS/ECE 5510 Homework 4 Template
 
-## Contact
-
-Contact the course TA for any questions. You will be notified when the contents of this repository changes.
-
 ## Overview
 
 Use this template to submit your solution to Part II of Homework 4. 
-Your assignment may not be graded otherwise. 
+
 **Submit your solution as a zip file on Canvas.** 
 
-Note that this template may undergo modification throughout the homework. 
 The template consists of two packages: `edu.vt.ece.spin` and `edu.vt.ece.hw4`. 
 The former consists of various implementations of Spin Locks provided in the textbook, 
 while the latter is the template for this homework. 
@@ -21,10 +16,6 @@ You may use ideas and code snippets from the former but you should only modify t
 If you know `git`, you can clone this repository and work on it.
 
 Otherwise, click the `Clone or download` button on the repository page and then click `Download zip` to download a zip file.   
-
-## Submission
-
-You must zip this folder and submit to Canvas
 
 ## Building and Running the template
 
@@ -39,7 +30,7 @@ Linux: `./gradlew test`
 Windows: `./gradlew.bat test`
 
 There is no requirement to write or satisfy unit tests for this homework. 
-However, as you may have learnt in Homework 2, they are useful for checking the correctness of your implementations. 
+However, as you may have learned in Homework 2, they are useful for checking the correctness of your implementations. 
 
 ### Building the project and producing binaries:
 
